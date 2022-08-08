@@ -17,5 +17,5 @@ deliveryboyRoute.get('/trackorders',(req,res)=>{
 //Named Export
 
 //1. module.exports
-module.exports = {deliveryboyRoute:deliveryboyRoute}
+exports.deliveryboyRoute = deliveryboyRoute;
 
