@@ -1,0 +1,91 @@
+JS - Foundation Day 29 - 
+
+Modular way means writing code in seperate files.
+
+What are the main advantages of writing code in seprate files (modular way)?
+1. Maintainibility 
+2. Re Usuablity (DRY Principle)
+		DRY - Dont Repeat Yourself
+
+What is the best concept of NodeJs for Resuability ?
+Import/Export
+
+
+Routing Engine
+		NodeExpress  Router()
+
+
+1. How to make our routes modular.
+		
+			app.get()
+			app.post()
+
+
+
+2. What are Roles
+3. How to build routes based on Role
+
+
+
+
+
+
+
+
+
+Roles
+	
+
+Eg.
+1. Suppose you developing an application on food Delivery System like Zomato.
+Some System Roles will be
+1. Admin (A user with full permission to complete system)
+2. DeliveryBoy
+3. RestaurantOwner
+4. Customer
+5. CustomerCare
+
+
+
+2. Suppose you are developing an application on Ecommerce System like Flipkart
+
+Can anybody think about the system roles will be used ?
+
+Please Log
+1. Admin
+2. customer
+3. seller
+4. customercare
+5. deliveryboy
+6. deliveryPartener
+
+
+
+
+3. Suppose you are developing an application on Hospital Management System 
+
+Can anybody think about the system roles will be used ?
+
+Please Log
+Admin
+receptioion
+
+Patient
+Doctor
+OPD
+PathLapOperator
+
+
+4. Suppose you are developing an application on School Management System 
+Can anybody think about the system roles will be used ?
+
+Please Log
+Admin
+Teacher
+Students
+
+
+
+
+
+
